@@ -1,6 +1,6 @@
 ### What is going on 🖖 I'm Vlad
 
-- 🛖 I live in Kharkiv, Ukraine
+- 🏠 I live in Kharkiv, Ukraine
 - 🌱 I’m currently learning Python
 - 👽 Fast learner and ambitious
 
